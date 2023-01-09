@@ -1,7 +1,7 @@
 #   Created by Elshad Karimov 
 #   Copyright © 2020 AppMillers. All rights reserved.
 
-import QueueLinkedList as queue
+import DSA.DS.QueueLinkedList as queue
 
 class BSTNode:
     def __init__(self, data):
